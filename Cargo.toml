@@ -1,0 +1,7 @@
+[package]
+name = "treehouse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rug = { version = "1.24.1", features = ["std","float"] }
